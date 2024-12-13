@@ -34,7 +34,7 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 #remote_theme: minimal-mistakes-jekyll
 # Exclude from processing.
