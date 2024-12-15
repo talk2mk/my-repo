@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Talk2Mrudula
+title: "Talk2Mrudula"
 email: mk@talktomrudula.com
 name: "Mrudula Kadam"
 description: >- # this means to ignore newlines until "baseurl:"
@@ -31,17 +31,19 @@ github_username:  talk2mk
 repository: "talk2mk/my-repo"
 
 logo: "/assets/images/Masthead_Logo.png"
-teaser: /assets/images/Blog_Teaser.png
+teaser: "/assets/images/Blog_Teaser.png"
 masthead_title: "Talk to Mrudula"
 
-breadcrumbs: true  # disabled by default
+#breadcrumbs: true  # disabled by default
 
 include:
   - _pages
 
 # Build settings
 #theme: minima
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -69,9 +71,9 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 #   - vendor/gems/
 #   - vendor/ruby/
 
-date_format: "%Y-%m-%d"
-words_per_minute: 150
-search: true
+#date_format: "%Y-%m-%d"
+#words_per_minute: 150
+#search: true
 
 
 defaults:
