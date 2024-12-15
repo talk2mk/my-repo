@@ -3,7 +3,7 @@ layout: single
 title:  "My Journey"
 date:   2024-11-24 10:55:02 +0530
 #categories: posts
-permalink: /posts/Intro/
+permalink: /posts/my_journey/
 ---
 
 ### My Journey in Neuropsychology - Bridging Cultures, Healing Minds
@@ -28,6 +28,6 @@ To everyone reading this – your mental health journey is unique. It's not abou
 
 My mission continues to be creating compassionate, evidence-based psychological support that sees and honors your individual story.
 
-[Book a Session](mk@talktomrudula.com){: .btn .btn--info}{: .align-center}
+[Book a Session](/contact/){: .btn .btn--info}{: .align-center}
 
 [Back to the home page](index.md)

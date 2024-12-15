@@ -4,4 +4,6 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Book a Consultation"
+    url: /book/
+  - title: "Contact"
     url: /contact/

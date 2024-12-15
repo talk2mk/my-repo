@@ -1,6 +1,6 @@
 ---
 title: Therapy Sessions
-permalink: /contact/
+permalink: /book/
 
 ---
 
@@ -14,7 +14,7 @@ I offer personalized psychological support tailored to your unique needs. Whethe
 4. Life Skills Development
 5. Personal Growth Strategies
 
-[Book a Session](mailto:mk@talktomrudula.com){: .btn .btn--info}{: .align-center}
+[Book a Session](/contact/){: .btn .btn--info}{: .align-center}
 
 ### Let's Connect and Begin Your Journey
 Consultation Options:
@@ -44,4 +44,4 @@ Contact: Mrudula Kadam
 
 Your mental health journey starts with a single step. Let's take it together.
 
-[Book a Session](mailto:mk@talktomrudula.com){: .btn .btn--info}{: .align-center}
+[Book a Session](/contact/){: .btn .btn--info}{: .align-center}
