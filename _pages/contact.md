@@ -36,7 +36,7 @@ Consultation Options:
 
 
 Contact: Mrudula Kadam
-📧 [mk@talktomrudula.com](mk@talktomrudula.com)
+[mk@talktomrudula.com](mk@talktomrudula.com)
 *Confidential. Compassionate. Comprehensive.*
 
 ### Consultation Process:
