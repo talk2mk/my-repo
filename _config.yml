@@ -20,6 +20,7 @@
 
 title: Talk2Mrudula
 email: mk@talktomrudula.com
+name: "Mrudula Kadam"
 description: >- # this means to ignore newlines until "baseurl:"
   Helping individuals achieve mental wellness and personal growth.
   Book a Consultation Today.
@@ -27,6 +28,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.talktomrudula.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: talk2mk
 github_username:  talk2mk
+repository: "talk2mk/my-repo"
+
+logo: "/assets/images/Masthead_Logo.png"
+teaser: /assets/images/Blog_Teaser.png
+masthead_title: "Talk to Mrudula"
+
+breadcrumbs: true  # disabled by default
+
+include:
+  - _pages
 
 # Build settings
 #theme: minima
@@ -34,7 +45,7 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 #remote_theme: minimal-mistakes-jekyll
 # Exclude from processing.
@@ -57,6 +68,11 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "
 #   - vendor/gems/
 #   - vendor/ruby/
 
+date_format: "%Y-%m-%d"
+words_per_minute: 150
+search: true
+
+
 defaults:
   # _posts
   - scope:
@@ -68,3 +84,48 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
+      read_time: true
+      permalink: /:title/
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+author:
+  name: "Mrudula Kadam"
+  avatar: "/assets/images/author_avatar.png"
+  bio: "Hi, I am a psychologist specializing in CBT, Expat Therapy, trauma-informed care and couples therapy, empowering individuals through personalized mental health support" # Note: Markdown is allowed
+  location: "Mumbai"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://talktomrudula.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/talktomrudula"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/talktomrudula"
+
+footer:
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://talktomrudula.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/talktomrudula"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/talktomrudula"
+
+
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
