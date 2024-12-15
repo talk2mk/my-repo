@@ -11,6 +11,6 @@ Trained at the intersection of neuroscience and clinical psychology, I bring an 
 
 My goal is simple: to create a supportive environment where personal growth and healing can thrive. Together, we'll work towards your psychological well-being and potential.
 
-[Book a Session](mk@talktomrudula.com){: .btn .btn--info}{: .align-center}
+[Book a Session](mailto:mk@talktomrudula.com){: .btn .btn--info}{: .align-center}
 
   [Back to the home page](index.md)

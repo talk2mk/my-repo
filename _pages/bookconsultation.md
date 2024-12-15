@@ -1,16 +1,5 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      title: Contact
-      author_profile: true
-      permalink: /contact/
-
-title: Contact Me
+title: Therapy Sessions
 permalink: /contact/
 
 ---
@@ -25,7 +14,7 @@ I offer personalized psychological support tailored to your unique needs. Whethe
 4. Life Skills Development
 5. Personal Growth Strategies
 
-[Book a Session](mk@talktomrudula.com){: .btn .btn--info}{: .align-center}
+[Book a Session](mailto:mk@talktomrudula.com){: .btn .btn--info}{: .align-center}
 
 ### Let's Connect and Begin Your Journey
 Consultation Options:
@@ -36,7 +25,7 @@ Consultation Options:
 
 
 Contact: Mrudula Kadam
-[mk@talktomrudula.com](mk@talktomrudula.com)
+[mk@talktomrudula.com](mailto:mailmk@talktomrudula.com)
 *Confidential. Compassionate. Comprehensive.*
 
 ### Consultation Process:
@@ -55,4 +44,4 @@ Contact: Mrudula Kadam
 
 Your mental health journey starts with a single step. Let's take it together.
 
-[Book a Session](mk@talktomrudula.com){: .btn .btn--info}{: .align-center}
+[Book a Session](mailto:mk@talktomrudula.com){: .btn .btn--info}{: .align-center}
