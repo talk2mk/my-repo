@@ -100,7 +100,7 @@ defaults:
 
 author:
   name: "Mrudula Kadam"
-  avatar: "/assets/images/author_avatar.png"
+  avatar: "/assets/images/profile.jpg"
   bio: "Hi, I am a psychologist specializing in CBT, Expat Therapy, trauma-informed care and couples therapy, empowering individuals through personalized mental health support" # Note: Markdown is allowed
   location: "Mumbai"
   links:
