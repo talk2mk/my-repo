@@ -19,7 +19,13 @@ I offer personalized psychological support tailored to your unique needs. Whethe
 ### Let's Connect and Begin Your Journey
 Consultation Options:
 
-* Initial 30-Minute Consultation: Complimentary
+**Themes**
+* Individual therapy
+* Couples therapy
+* Pre-marital counselling
+
+**Session Details**
+* Initial 15-Minute Consultation: Complimentary
 * Standard Session: 60-minute in-depth psychological support
 * Specialized Therapy: Customized approach based on your specific requirements
 
@@ -30,8 +36,9 @@ Contact: Mrudula Kadam
 
 ### Consultation Process:
 
-* Email Initial Inquiry
-* Schedule Preliminary Call
+* Email Initial Inquiry or Inquiry call
+* Schedule time and date for the first Session
+* Fill intake form for new and returning client
 * Develop Personalized Support Plan
 * Begin Transformative Therapeutic Journey
 
