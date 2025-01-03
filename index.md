@@ -3,7 +3,7 @@ layout: home
 title: Mrudula Kadam
 author_profile: true
 
-excerpt: "Hi, I'm a licensed Psychologist specializing in CBT, Expat Therapy, trauma-informed care and couples therapy"
+excerpt: "Hi, I'm a licensed Psychologist specializing in therapy backed by Neuropsychology for Individuals, Couples and Expats for varied psychology issues"
 header:
   #image: /assets/images/Website_Header.png
   overlay_image: /assets/images/banner.jpg
