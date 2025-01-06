@@ -38,6 +38,7 @@ masthead_title: "Talk to Mrudula"
 
 include:
   - _pages
+  - _includes
 
 # Build settings
 #theme: minima
