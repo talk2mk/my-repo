@@ -13,13 +13,14 @@ My goal is simple: to create a supportive environment where personal growth and 
 
 ### Educational Qualifications
 
-* Masters in Clinical Psychology   
+* Masters in Neuropsychology   
 *First Class With Distinction*   
 ***National Forensic Sciences University***, *Gandhinagar*
 * Master of Arts– Psychology with Specialization in Clinical Psychology   
 ***University of Mumbai***, *Mumbai*
 * Bachelors of Arts– Major in Psychology    
 ***L.S. Raheja College of Arts and Commerce***, *Mumbai*
+*Valedictorian*
 
 ### Professional Credentials:
 
